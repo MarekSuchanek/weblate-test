@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: registry-client:3.17.1\n"
-"POT-Creation-Date: 2022-11-14T14:17:48.022Z\n"
+"POT-Creation-Date: 2022-11-14T15:17:48.022Z \n"
 "PO-Revision-Date: 2022-11-19 20:22+0000\n"
 "Last-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\n"
 "Language-Team: Czech <http://localize.ds-wizard.org/projects/test-project/"
@@ -11,10 +11,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Weblate 4.14.2\n"
-
-#: engine-registry/elm/Registry.elm:326
-msgid "Configuration Error"
-msgstr "Chyba konfigurace"
 
 #: engine-registry/elm/Registry.elm:327
 msgid "The application is not configured correctly and cannot run."
@@ -27,3 +23,10 @@ msgstr ""
 #: engine-registry/elm/Registry.elm:366
 msgid "The page you are looking for does not exist."
 msgstr ""
+
+#: engine-registry/elm/Registry.elm:367
+msgid "Something else."
+msgstr ""
+
+#~ msgid "Configuration Error"
+#~ msgstr "Chyba konfigurace"
