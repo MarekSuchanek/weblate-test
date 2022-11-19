@@ -2,18 +2,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: registry-client:3.17.1\n"
 "POT-Creation-Date: 2022-11-14T14:17:48.022Z\n"
+"PO-Revision-Date: 2022-11-20 20:03+0000\n"
+"Last-Translator: Marek Suchánek <marek.suchanek@ds-wizard.org>\n"
+"Language-Team: Czech <http://localize.ds-wizard.org/projects/test-project/"
+"test-3-17-1/cs/>\n"
 "Language: cs\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.14.2\n"
 
 #: engine-registry/elm/Registry.elm:326
 msgid "Configuration Error"
-msgstr ""
+msgstr "Chyba konfigurace"
 
 #: engine-registry/elm/Registry.elm:327
 msgid "The application is not configured correctly and cannot run."
-msgstr ""
+msgstr "Aplikace není správně nakonfigurovaná a nemůže běžet."
 
 #: engine-registry/elm/Registry.elm:365
 msgid "Not Found"
