@@ -1,15 +1,11 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: registry-client:3.17.1\n"
-"POT-Creation-Date: 2022-11-14T14:17:48.022Z \n"
+"Project-Id-Version: registry-client:3.18.0\n"
+"POT-Creation-Date: 2022-11-14T15:17:48.022Z \n"
 "Language: en\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-
-#: engine-registry/elm/Registry.elm:326
-msgid "Configuration Error"
-msgstr ""
 
 #: engine-registry/elm/Registry.elm:327
 msgid "The application is not configured correctly and cannot run."
@@ -21,4 +17,8 @@ msgstr ""
 
 #: engine-registry/elm/Registry.elm:366
 msgid "The page you are looking for does not exist."
+msgstr ""
+
+#: engine-registry/elm/Registry.elm:367
+msgid "Something else."
 msgstr ""
